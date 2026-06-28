@@ -28,6 +28,6 @@ Hi, I'm Manoj
 - SSH
 - HTTP/HTTPS
 - Web Enumeration
-- 
+  
 
 More notes and projects i will be uploading soon 
